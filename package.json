@@ -1,0 +1,19 @@
+{
+  "name": "tecnicas_programacao",
+  "version": "1.0.0",
+  "description": "Aula_19-04-2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heriqbeck/Tecnicas_programacao.git"
+  },
+  "author": "Henrique Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heriqbeck/Tecnicas_programacao/issues"
+  },
+  "homepage": "https://github.com/Heriqbeck/Tecnicas_programacao#readme"
+}
